@@ -1,5 +1,5 @@
 Summarize the project and what problem it was solving.
-Project Two required me to create code that inputs and outputs user's interest rates based on monthly or no monthly deposits. I was to create a code that printed the monthly interest rate calaulations with and without monthly initial deposits from the user/customer. 
+Project Two required me to create code that inputs and outputs user's interest rates based on monthly or no monthly deposits. I was to create a code that printed the monthly interest rate calaulations with and without monthly initial deposits from the user/customer. The user has to enter the value of their monthly deposit amounts and the code will calculate their interest rates off that number. 
 
 What did you do particularly well?
 What I did well in this project was taking my time in addressing the code as far as the print statement and the calculations went. 
