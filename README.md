@@ -14,6 +14,4 @@ What skills from this project will be particularly transferable to other project
 All the data points in the code is transferrable to other projects and course work. I believe that the math and calculations portion would help significantly in the SDE environment I plan on going into.
 
 How did you make this program maintainable, readable, and adaptable?
-I made this program maintainable, readable and adaptable by 
-
-I always tested my code at almost every step. I first would write the code how I see fit, test and run the code and pay close attention to all the error messages. If there were error messages I could not fix, I went back into modules and ZYBooks exercises to replicate code to better understand which pieces of code would work and which would not.
+I made this program maintainable, readable and adaptable by making sure that the end code was viable toward the Bank's user interface. I made sure that all the requirements were met and the code did not have any errors. Within the code, I made sure that it was easy to read with comments, maintinable within the comments as well if a future coder wanted to change any of the calculations, and adaptable so that the code is able to grow from  basic calculations. I always tested my code at almost every step. I first would write the code how I see fit, test and run the code and pay close attention to all the error messages. If there were error messages I could not fix, I went back into modules and ZYBooks exercises to replicate code to better understand which pieces of code would work and which would not.
